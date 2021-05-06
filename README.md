@@ -1,4 +1,4 @@
-# fimiti
+# Palace POS
 
 ## Project setup
 ```
